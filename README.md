@@ -1,4 +1,4 @@
-zend-optimizer-plus
-===================
+Description
+===========
 
 Repository for foobugs Cookbook zend-optimizer-plus.
